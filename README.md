@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <!-- Add more badges as needed -->
 
 ## 📈 GitHub Stats
-![Osama Nabil's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Osama Nabil's GitHub stats](https://github-readme-stats.vercel.app/api?username=osamanabil60&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/osama-nabil-543306356/))
