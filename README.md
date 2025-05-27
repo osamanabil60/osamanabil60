@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **osamanabil60/osamanabil60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-<!-- Add more badges as needed -->
+<!-- Add more badges as needed 
 
 ## 📈 GitHub Stats
 ![Osama Nabil's GitHub stats](https://github-readme-stats.vercel.app/api?username=osamanabil60&show_icons=true&theme=radical)
@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/osama-nabil-543306356/))
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)]([https://twitter.com/yourhandle](https://x.com/Osama879256644))
 
--->
+
  
