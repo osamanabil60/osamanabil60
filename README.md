@@ -1,5 +1,4 @@
-## Hi there 👋
-
+# Hi there 👋, I'm Osama Nabil!
 
 **osamanabil60/osamanabil60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-# Hi there 👋, I'm [Your Name]!
 
 ## 🚀 About Me
 - 🔭 I’m currently working on: [Project Name]
