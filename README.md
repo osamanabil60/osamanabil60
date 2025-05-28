@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Email or Social links]
 
 ## 🛠️ Technologies & Tools
-![Python]([https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white](https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000))
+![Python](https://icons8.com/icon/Rc0Xn5AtE8kX/python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
  
