@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 ![Dart](https://github.com/user-attachments/assets/48b209c4-b753-4284-8f6a-6fda6cf280a0)
 ![Flutter](https://github.com/user-attachments/assets/5c22879d-2c0d-476f-8a2b-e284e8576f6e)
 ![Python](https://github.com/user-attachments/assets/600c2537-796f-4a18-a723-e67a3bef6f9a)
+![HTML](https://github.com/user-attachments/assets/f030a814-294e-41fa-b292-e7adc54412b1)
+![CSS](https://github.com/user-attachments/assets/c49dde59-f522-47c1-93b9-a2747268bfc6)
 ![C++](https://github.com/user-attachments/assets/c70ee994-e8f3-4244-b139-1562fdc2d881)
 ![C#](https://github.com/user-attachments/assets/fdfcc13d-6efc-4a25-bc08-e5b7643e6038)
 
