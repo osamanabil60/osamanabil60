@@ -22,11 +22,8 @@ Here are some ideas to get you started:
 
 ## 🛠️ Technologies & Tools
 ![Flutter](https://github.com/user-attachments/assets/5c22879d-2c0d-476f-8a2b-e284e8576f6e)
-
 ![Python](https://github.com/user-attachments/assets/600c2537-796f-4a18-a723-e67a3bef6f9a)
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
  
 
