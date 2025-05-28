@@ -25,8 +25,16 @@ Here are some ideas to get you started:
 ![Flutter](https://github.com/user-attachments/assets/5c22879d-2c0d-476f-8a2b-e284e8576f6e)
 ![Python](https://github.com/user-attachments/assets/600c2537-796f-4a18-a723-e67a3bef6f9a)
 ![C++](https://github.com/user-attachments/assets/c70ee994-e8f3-4244-b139-1562fdc2d881)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
- 
+![C#](https://github.com/user-attachments/assets/fdfcc13d-6efc-4a25-bc08-e5b7643e6038)
+
+![Git](https://github.com/user-attachments/assets/0c80c3ca-3d92-46f4-8c9f-291847fba871)
+![Firebase](https://github.com/user-attachments/assets/386746d8-a929-4f47-a297-96bc4eca30c5)
+![API](https://github.com/user-attachments/assets/4337a14f-668f-4acd-a56c-edb7200e0551)
+![Pycharm](https://github.com/user-attachments/assets/73e6e173-1752-4ead-95f7-cb560a48ffe3)
+![Android Studio](https://github.com/user-attachments/assets/d6cf2da8-0cfe-4247-a7cc-9333cb112d01)
+
+
+
 
 ## 📈 GitHub Stats
 ![Osama Nabil's GitHub stats](https://github-readme-stats.vercel.app/api?username=osamanabil60&show_icons=true&theme=radical)
